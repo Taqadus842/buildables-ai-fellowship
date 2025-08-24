@@ -1,0 +1,8 @@
+streamlit
+openai
+transformers
+torch
+huggingface_hub
+langdetect
+textstat
+pandas
