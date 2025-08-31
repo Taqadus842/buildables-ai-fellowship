@@ -12,6 +12,6 @@ A beginner-friendly project to learn **LLM basics**:
 
 ### 1. Clone repo & enter folder
 ```bash
-git clone https://github.com/your-username/your-project-name.git
+git clone https://github.com/Taqadus842/buildables-ai-fellowship/text-analysis-tool.git
 cd your-project-name
 
