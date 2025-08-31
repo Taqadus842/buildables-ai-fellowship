@@ -18,7 +18,7 @@ Built using **Python** and **OpenAI API**, this project demonstrates how convers
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Taqadus814/MultiPersona-Chat.git
+git clone [https://github.com/Taqadus814/](https://github.com/Taqadus842/buildables-ai-fellowship)MultiPersona-Chat.git
 cd MultiPersona-Chat
 ```
 
